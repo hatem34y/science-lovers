@@ -580,7 +580,7 @@ body {
 \*-----------------------------------*/
 
 .hero { padding-block-start: calc(var(--section-padding) + 80px); direction: ltr; 
-    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url('../images/hero/back.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url('back.jpg');
     background-position: center;
     background-attachment: fixed;
     height: 100vh;
@@ -722,7 +722,7 @@ body {
   #certficate
 \*-----------------------------------*/
 
-.certficate { background-size: cover;  background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url('../images/hero/space.jpg'); }
+.certficate { background-size: cover;  background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url('space.jpg'); }
 
 .certficate-card {
   position: relative;
