@@ -984,7 +984,7 @@ align-items: center;
   .slider-wrapper {
     position: relative;
     margin: 0 auto;
-    max-width: 450px;
+    max-width: 350px;
   }
      .hero{
     height: 100vh;
@@ -1058,7 +1058,7 @@ align-items: center;
   .slider-wrapper {
     position: relative;
     margin: 0 auto;
-    max-width: 600px;
+    max-width: 300px;
   }
 }
 
