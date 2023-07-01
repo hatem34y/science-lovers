@@ -984,7 +984,7 @@ align-items: center;
   .slider-wrapper {
     position: relative;
     margin: 0 auto;
-    max-width: 350px;
+    max-width: 200px;
   }
      .hero{
     height: 100vh;
@@ -1011,7 +1011,9 @@ align-items: center;
   /**
    * REUSED STYLE
    */
-
+	.gifts .container{
+		max-width: 220px;
+	}
   .container {
     max-width: 520px;
     width: 100%;
@@ -1058,7 +1060,7 @@ align-items: center;
   .slider-wrapper {
     position: relative;
     margin: 0 auto;
-    max-width: 300px;
+    max-width: 200px;
   }
 }
 
